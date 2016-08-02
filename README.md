@@ -1,2 +1,2 @@
-# HangMan
-HangMan using PyGame
+# Hangman
+Hangman using PyGame
